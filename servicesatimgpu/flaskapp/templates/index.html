@@ -1,0 +1,58 @@
+{% extends 'layout.html' %}
+
+{%block title%}
+        Семантический анализ текстовой информации
+
+
+
+
+{% endblock %}
+
+{%block content%}
+    <div class="features">
+        <h1>Семантический анализ текстовой информации</h1>
+
+        <form action="/new-analys" method="POST" enctype="multipart/form-data" style="margin-top: 40px">
+            <div  style="width: 20%;">
+                <button type="submit" class="btn btn-primary">Загрузить данные</button>
+            </div>
+        </form>
+
+        <div class="subheader_cards">
+
+            <div class="tile">
+                <a href="/" >
+                    <img src="{{url_for('static', filename= 'img/home.svg')}}" class="img img-responsive">
+                    <hr>
+                    <h4>Главная</h4>
+                </a>
+            </div>
+
+            <div class="tile">
+                <a href="/teach" >
+                    <img src="{{url_for('static', filename= 'img/master.svg')}}" class="img img-responsive">
+                    <hr>
+                    <h4>Преподаватель</h4>
+                </a>
+            </div>
+
+            <div class="tile">
+                <a href="/student" >
+                    <img src="{{url_for('static', filename= 'img/student.svg')}}" class="img img-responsive">
+                    <hr>
+                    <h4>Студент</h4>
+                </a>
+            </div>
+
+            <div class="tile">
+                <a href="/upload-image" >
+                    <img src="{{url_for('static', filename= 'img/files.svg')}}" class="img img-responsive">
+                    <hr>
+                    <h4>Загрузка файлов</h4>
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+{% endblock %}

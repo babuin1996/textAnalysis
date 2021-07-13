@@ -1,0 +1,50 @@
+{% extends 'layout.html' %}
+
+{%block title%}
+        Результаты частотного анализа
+{% endblock %}
+{%block content%}
+
+              <div class="col-lg-6 mx-auto">
+               {% with messages = get_flashed_messages() %}
+                    {% if messages %}
+                        <u1>
+                        {% for message in  messages %}
+                             <li>{{ message }}</li>
+                        {% endfor %}
+                        </u1>
+                    {% endif %}
+                {% endwith  %}
+              </div>
+        <div   class="features">
+            <h1>{{header3}}</h1>
+            <div id="chart3" class="chart3"></div>
+            <div>{{description3}}</div>
+
+        <h1>{{header1}}</h1>
+            <div id="chart1" class="chart1"></div>
+            <div>{{description1}}</div>
+
+         <h1>{{header2}}</h1>
+            <div id="chart2" class="chart2"></div>
+            <div>{{description2}}</div>
+        <div   class="featuresrez">
+            <form action="/table-analys" method="POST" enctype="multipart/form-data">
+                        <div class="d-grid gap-2 col-6 mx-auto">
+                            <button type="submit" class="btn btn-primary">Табличный анализ</button>
+                        </div>
+                    </form>
+         </div>
+  </div>
+{% endblock %}
+{% block script %}
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script type="text/javascript">
+    var graphs1 = {{graphJSON1 | safe}};
+    Plotly.plot('chart1',graphs1,{});
+    var graphs2 = {{graphJSON2 | safe}};
+    Plotly.plot('chart2',graphs2,{});
+    var graphs3 = {{graphJSON3 | safe}};
+    Plotly.plot('chart3',graphs3,{});
+</script>
+{% endblock %}

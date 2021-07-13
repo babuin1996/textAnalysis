@@ -1,0 +1,31 @@
+<svg id="Layer_23" data-name="Layer 23" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165 155">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;}.cls-1,.cls-2{opacity:0.9;}.cls-2,.cls-3,.cls-5{fill:none;stroke:#ee3524;stroke-miterlimit:10;}.cls-2,.cls-3{stroke-linecap:round;}.cls-3{opacity:0.14;}.cls-4,.cls-6,.cls-7,.cls-8{fill:#ee3524;}.cls-4{opacity:0.15;}.cls-5{stroke-width:0.75px;opacity:0.41;}.cls-6{opacity:0.26;}.cls-7{opacity:0.7;}.cls-8{opacity:0.81;}
+        </style>
+    </defs>
+    <title>самостоятельная работа</title>
+    <rect class="cls-1" x="40.8" y="27.08" width="83.82" height="101.69" rx="4.12" ry="4.12"/>
+    <path class="cls-2"
+          d="M40.8,96v28.63a4.13,4.13,0,0,0,4.13,4.12H120.5a4.13,4.13,0,0,0,4.13-4.12V31.2a4.13,4.13,0,0,0-4.13-4.12H44.93A4.13,4.13,0,0,0,40.8,31.2V74.49"/>
+    <line class="cls-2" x1="49.05" y1="62.86" x2="115.01" y2="62.86"/>
+    <line class="cls-2" x1="49.05" y1="73.86" x2="115.01" y2="73.86"/>
+    <line class="cls-2" x1="49.05" y1="84.85" x2="115.01" y2="84.85"/>
+    <line class="cls-2" x1="49.05" y1="95.84" x2="115.01" y2="95.84"/>
+    <line class="cls-2" x1="49.05" y1="106.84" x2="115.45" y2="106.84"/>
+    <line class="cls-3" x1="28.44" y1="90.29" x2="39.43" y2="90.29"/>
+    <line class="cls-3" x1="28.72" y1="81.68" x2="39.15" y2="85.16"/>
+    <line class="cls-2" x1="49.05" y1="117.83" x2="93.02" y2="117.83"/>
+    <circle class="cls-4" cx="137.68" cy="51.13" r="2.75"/>
+    <circle class="cls-5" cx="137.68" cy="51.13" r="2.75"/>
+    <circle class="cls-4" cx="93.03" cy="137.45" r="3.27"/>
+    <circle class="cls-5" cx="93.03" cy="137.45" r="3.27"/>
+    <circle class="cls-6" cx="34.34" cy="57.01" r="1.47"/>
+    <circle class="cls-6" cx="30.5" cy="107.47" r="3.4"/>
+    <circle class="cls-6" cx="128.06" cy="15.4" r="3.4"/>
+    <circle class="cls-6" cx="134.93" cy="97.85" r="4.76"/>
+    <circle class="cls-6" cx="41.49" cy="18.15" r="4.76"/>
+    <circle class="cls-7" cx="61.34" cy="41.31" r="4.76"/>
+    <path class="cls-8"
+          d="M56.45,47.29h8.82A7.72,7.72,0,0,1,73,55v0a0,0,0,0,1,0,0H48.73a0,0,0,0,1,0,0v0A7.72,7.72,0,0,1,56.45,47.29Z"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg id="Layer_56" data-name="Layer 56" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165 155">
+    <defs>
+        <style>
+            .cls-1,.cls-2,.cls-7{fill:none;stroke:#ee3524;}.cls-1,.cls-7{stroke-miterlimit:10;}.cls-2{stroke-linecap:round;stroke-linejoin:round;}.cls-3,.cls-4,.cls-5,.cls-6,.cls-8,.cls-9{fill:#ee3524;}.cls-3{opacity:0.36;}.cls-4{opacity:0.14;}.cls-5{opacity:0.18;}.cls-6{opacity:0.15;}.cls-7{stroke-width:0.75px;opacity:0.41;}.cls-8{opacity:0.31;}.cls-9{opacity:0.6;}
+        </style>
+    </defs>
+    <title>ЕКИС</title>
+    <polygon class="cls-1" points="33.32 47.52 33.32 44.13 84.12 22.69 134.91 44.13 134.91 47.52 33.32 47.52"/>
+    <rect class="cls-2" x="43.48" y="49.78" width="81.27" height="4.52"/>
+    <polygon class="cls-2" points="46.3 57.12 56.46 57.12 57.59 100.01 45.17 100.01 46.3 57.12"/>
+    <polygon class="cls-2" points="67.75 57.12 77.91 57.12 79.04 100.01 66.62 100.01 67.75 57.12"/>
+    <polygon class="cls-2" points="90.32 57.12 100.48 57.12 101.61 100.01 89.2 100.01 90.32 57.12"/>
+    <polygon class="cls-2" points="111.77 57.12 121.93 57.12 123.06 100.01 110.64 100.01 111.77 57.12"/>
+    <polygon class="cls-3" points="113.16 59.06 120.55 59.06 121.37 98.06 112.34 98.06 113.16 59.06"/>
+    <polygon class="cls-3" points="91.71 59.06 99.1 59.06 99.92 98.06 90.89 98.06 91.71 59.06"/>
+    <polygon class="cls-3" points="69.13 59.06 76.52 59.06 77.34 98.06 68.31 98.06 69.13 59.06"/>
+    <polygon class="cls-3" points="47.69 59.06 55.08 59.06 55.9 98.06 46.87 98.06 47.69 59.06"/>
+    <polygon class="cls-2"
+             points="136.6 114.69 136.6 106.78 129.83 106.78 129.83 102.27 38.4 102.27 38.4 106.78 31.63 106.78 31.63 114.69 25.98 114.69 25.98 119.2 142.25 119.2 142.25 114.69 136.6 114.69"/>
+    <polygon class="cls-4"
+             points="133.11 114.5 133.11 109.23 126.78 109.23 126.78 105.09 41.45 105.09 41.45 109.23 35.13 109.23 35.13 114.5 33.24 114.5 33.24 116.38 134.99 116.38 134.99 114.5 133.11 114.5"/>
+    <polygon class="cls-5" points="84.12 26.07 130.96 44.7 38.4 44.7 84.12 26.07"/>
+    <circle class="cls-6" cx="129.25" cy="21.9" r="6.72"/>
+    <circle class="cls-7" cx="129.25" cy="21.9" r="6.72"/>
+    <circle class="cls-6" cx="17.04" cy="72.94" r="3.84"/>
+    <circle class="cls-7" cx="17.04" cy="72.94" r="3.84"/>
+    <circle class="cls-8" cx="108.29" cy="135.46" r="4.5"/>
+    <circle class="cls-8" cx="57.28" cy="138.12" r="2.73"/>
+    <circle class="cls-9" cx="39.9" cy="21.37" r="4.83"/>
+    <circle class="cls-9" cx="150.62" cy="90.77" r="2.38"/>
+</svg>

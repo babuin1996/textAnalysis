@@ -1,0 +1,47 @@
+main {
+    min-height: 500px
+}
+
+.features {
+    margin-top: 50px;
+}
+
+.subheader {
+    display: flex !important;
+    margin-top: 10px !important;
+}
+
+.subheader a {
+    flex: auto;
+    text-decoration: none;
+}
+
+.subheader a i {
+    margin: 5px;
+}
+
+.subheader a li {
+    list-style-type: none;
+}
+
+.subheader a span {
+    margin-left: 25%;
+}
+
+.form-group {
+    margin: 10px;
+}
+
+.subheader_cards {
+    display: flex;
+    margin-top: 30px;
+}
+
+.tile {
+    width: 25% !important;
+    margin: 15px !important;
+}
+
+.tile img {
+    padding: 0 !important;
+}

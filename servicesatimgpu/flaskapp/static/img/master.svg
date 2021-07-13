@@ -1,0 +1,33 @@
+<svg id="Layer_60" data-name="Layer 60" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165 155">
+    <defs>
+        <style>
+            .cls-1,.cls-3,.cls-6{fill:none;stroke:#ee3524;}.cls-1,.cls-6{stroke-miterlimit:10;}.cls-10,.cls-11,.cls-2,.cls-4,.cls-5,.cls-7,.cls-8,.cls-9{fill:#ee3524;}.cls-2{opacity:0.3;}.cls-3{stroke-linecap:round;stroke-linejoin:round;}.cls-4{opacity:0.25;}.cls-5{opacity:0.15;}.cls-6{stroke-width:0.75px;opacity:0.41;}.cls-7{opacity:0.31;}.cls-8{opacity:0.42;}.cls-9{opacity:0.16;}.cls-10{opacity:0.35;}.cls-11{opacity:0.23;}
+        </style>
+    </defs>
+    <title>рекомендации ученого совета</title>
+    <rect class="cls-1" x="40.5" y="21.5" width="84" height="112" rx="5.13" ry="5.13"/>
+    <circle class="cls-1" cx="82.5" cy="44.13" r="9.18"/>
+    <circle class="cls-2" cx="82.5" cy="44.13" r="7.53"/>
+    <path class="cls-3"
+          d="M98,62.72,96.62,75.55H68.38L67.05,62.72c-.42-2.63,2-5,5.07-5h5.2l5.18,9,5.18-9h5.2C96,57.74,98.37,60.09,98,62.72Z"/>
+    <path class="cls-4"
+          d="M96.19,63.17,95,73.65H70L68.81,63.17c-.37-2.33,1.75-3.52,4.49-3.52h2L82.5,70.26l7.25-10.61h2C94.44,59.65,96.56,60.84,96.19,63.17Z"/>
+    <line class="cls-3" x1="50" y1="91" x2="73" y2="91"/>
+    <line class="cls-3" x1="50" y1="100.5" x2="73" y2="100.5"/>
+    <line class="cls-3" x1="50" y1="110" x2="73" y2="110"/>
+    <line class="cls-3" x1="50" y1="119.5" x2="73" y2="119.5"/>
+    <line class="cls-3" x1="115" y1="91" x2="92" y2="91"/>
+    <line class="cls-3" x1="115" y1="100.5" x2="92" y2="100.5"/>
+    <line class="cls-3" x1="115" y1="110" x2="92" y2="110"/>
+    <line class="cls-3" x1="115" y1="119.5" x2="92" y2="119.5"/>
+    <circle class="cls-5" cx="142.67" cy="117" r="5.82"/>
+    <circle class="cls-6" cx="142.67" cy="117" r="5.82"/>
+    <circle class="cls-5" cx="26.23" cy="18.87" r="3.98"/>
+    <circle class="cls-6" cx="26.23" cy="18.87" r="3.98"/>
+    <ellipse class="cls-7" cx="23.74" cy="127.87" rx="3.78" ry="3.77"
+             transform="translate(-93.97 72.56) rotate(-54.31)"/>
+    <circle class="cls-8" cx="112.28" cy="11.12" r="2.73"/>
+    <circle class="cls-9" cx="25.28" cy="80.12" r="2.73"/>
+    <circle class="cls-10" cx="115.28" cy="144.61" r="2.66"/>
+    <circle class="cls-11" cx="142.74" cy="71.38" r="5.1"/>
+</svg>

@@ -33,13 +33,38 @@ main {
 }
 
 .subheader_cards {
-    display: flex;
+    display: contents;
     margin-top: 30px;
 }
 
-.tile {
-    width: 25% !important;
-    margin: 15px !important;
+@media (min-width: 600px) {
+    .tile {
+        width: 20% !important;
+        margin: 15px !important;
+        display: inline-block;
+    }
+    .files-button {
+        width: 25% !important;
+    }
+}
+@media (max-width: 600px) {
+    .tile {
+        width: 90% !important;
+        margin: 15px !important;
+        display: inline-block;
+    }
+    .files-button {
+        width: 100% !important;
+    }
+    .header-item-text {
+        display: none;
+    }
+    .out-link {
+        display: none !important;
+    }
+    .app-name {
+        width: 66% !important;
+    }
 }
 
 .tile img {
